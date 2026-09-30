@@ -1,0 +1,18 @@
+BBZ Materiais Elétricos — versão em HTML
+=========================================
+
+Como usar: abra o arquivo index.html no navegador (ou suba todos
+os arquivos para qualquer hospedagem de sites estáticos).
+
+Conteúdo:
+- index.html ......... página inicial
+- produtos.html ...... catálogo completo (28 produtos)
+- contato.html ....... página de contato
+- produto-*.html ..... página de cada produto
+- styles.css ......... visual do site
+- hero.jpg ........... imagem do topo
+
+Observação: esta é uma versão estática (fotografia do site).
+Os botões de carrinho, busca e filtros funcionam apenas na
+versão online completa. Os links entre páginas funcionam
+normalmente.
